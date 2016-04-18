@@ -1,3 +1,3 @@
 # hello-world
 getting started
-getting started part two
+# getting started part two
